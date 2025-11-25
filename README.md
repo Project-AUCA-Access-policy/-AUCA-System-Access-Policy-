@@ -3,8 +3,10 @@
 AUCA PL/SQL Triggers & Package Project
 
 Done by:
-Paule Céleste 27086
+Paule Céleste 27086 
+
 Khadidja Adam 28041
+
 Ingabire Bienvenu 26117
 
  1. Objective of the Assignment
